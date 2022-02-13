@@ -1,9 +1,12 @@
 fileFormatVersion: 2
-guid: f536b199d97759743bfb10d1f7cc7145
+guid: 2a352e37d42998a48bf6ffa73447c4b7
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - buffDebuffPanle: {instanceID: 0}
+  - gooDebuffImage: {fileID: 4164941158571187297, guid: 892d2fa7f2e36be4180621a52f788e45,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
